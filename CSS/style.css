@@ -1,0 +1,19 @@
+h1 {
+	text-align: center;
+	font-size: 70px;
+	font-family: helvetica; 
+	color: #9EB3C2; 
+}
+body {
+	
+	background-image: url("https://i.ytimg.com/vi/oT34ZlBD9fg/maxresdefault.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}.btn {
+	font-size: 40px;
+	margin-top: 40%;
+	margin-left: 40%;
+	background-color: lightblue;
+}
